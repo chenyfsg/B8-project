@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-
+# Site settings
 description:B8 project
-baseurl: "/B8-project/"
-utl: "https://chenyfsg.github.io/"
+baseurl:"/B8-project/"
+utl:"https://chenyfsg.github.io"
