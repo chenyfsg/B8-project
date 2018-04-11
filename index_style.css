@@ -73,7 +73,7 @@ a:active{ text-decoration: underline; }
 }
 /* but try and be as concise as possible */
 #nav{
-	width: 60%;
+	width: 80%;
 	display: inline-block;
 	text-align: right;
 	float: right;
