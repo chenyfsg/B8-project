@@ -66,7 +66,7 @@ a:active{ text-decoration: underline; }
 
 /* or on different lines like below */
 #logo{
-	width: 50%;
+	width: 80%;
 	margin-top: 5px;
 	font-family: georgia;
 	display: inline-block;
